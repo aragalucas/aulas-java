@@ -16,7 +16,7 @@ public class App
 
         String nomeCompleto = nome.concat(" ").concat(sobrenome);
 
-        system.out.println("Concatenação Maiúscula: " + nomeCompleto.toUpperCase());
-        system.out.println("Concatenação Minúscula : " + nomeCompleto.toLowerCase());
+        System.out.println("Concatenação Maiúscula: " + nomeCompleto.toUpperCase());
+        System.out.println("Concatenação Minúscula : " + nomeCompleto.toLowerCase());
     }
 }
